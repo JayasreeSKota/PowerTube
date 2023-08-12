@@ -1,4 +1,8 @@
 # PowerTube
+![ alt text ](https://img.shields.io/badge/powerapps-blueviolet?logo=powerapps)
+![ alt text ](https://img.shields.io/badge/microsoftsharepoint-turquoise?logo=microsoftsharepoint)
+
+
 Welcome to PowerTube! 📹
 
 PowerTube is a user-friendly YouTube-like platform built with PowerApps, allowing you to discover, upload, and manage videos effortlessly. It uses SharePoint lists as the backend to organize content. 💻📋
